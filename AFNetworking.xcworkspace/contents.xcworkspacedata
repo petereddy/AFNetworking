@@ -33,6 +33,12 @@
          location = "container:"
          name = "NSURLSession">
          <FileRef
+            location = "group:AFNetworking/AFURLSessionTask.h">
+         </FileRef>
+         <FileRef
+            location = "group:AFNetworking/AFURLSessionTask.m">
+         </FileRef>
+         <FileRef
             location = "group:AFNetworking/AFURLSessionManager.h">
          </FileRef>
          <FileRef
